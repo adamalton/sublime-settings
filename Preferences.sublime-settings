@@ -1,14 +1,16 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
 {
 	"auto_complete_commit_on_tab": true,
 	"draw_white_space": "all",
-	"scroll_past_end": true,
-	"match_brackets_angle": false,
-	"highlight_line": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": false,
-	"highlight_modified_tabs": true
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": false,
+	"scroll_past_end": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
 }
