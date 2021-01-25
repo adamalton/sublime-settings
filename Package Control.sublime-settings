@@ -5,9 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"Django Syntax",
+		"Dockerfile Syntax Highlighting",
+		"ESLint",
 		"Package Control",
+		"Package Coverage",
+		"Sass",
 		"SublimeLinter",
-		"SublimeLinter-contrib-jslint",
-		"SublimeLinter-pyflakes"
+		"SublimeLinter-eslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pylint"
 	]
 }
