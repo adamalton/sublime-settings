@@ -1,7 +1,7 @@
 [
 	{ "keys": ["super+shift+d"], "command": "find_under_expand" },
 	{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
-	{ "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+	{ "keys": ["alt+shift+down"], "command": "duplicate_line" },
 	{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
 	{ "keys": ["super+shift+l"], "command": "expand_selection", "args": {"to": "line"} },
 	{ "keys": ["super+k", "super+v"], "command": "paste_and_indent" },
