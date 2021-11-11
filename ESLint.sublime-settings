@@ -12,7 +12,7 @@
   // On OSX, for example: "/usr/local/bin"
   // Example for nodebrew: "$HOME/.nodebrew/current/bin"
   // Example for Windows: "C:/Program Files/nodejs"
-  "node_path": "/Users/adamalton/.nvm/versions/node/v13.7.0/bin/node",
+  "node_path": "/Users/adamalton/.nvm/versions/node/v15.6.0/bin/node",
 
   // The directory location of global `node_modules` via `npm`. If this
   // is not specified, then it is expected to be on system environment
