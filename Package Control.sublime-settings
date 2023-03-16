@@ -17,6 +17,7 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-pyflakes",
-		"SublimeLinter-pylint"
-	]
+		"SublimeLinter-pylint",
+		"Syntax Highlighting for Sass",
+	],
 }

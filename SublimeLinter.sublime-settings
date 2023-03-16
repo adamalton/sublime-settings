@@ -13,10 +13,13 @@
             "env": {"PATH":"/Users/adamalton/.nvm/versions/node/v15.6.0/bin/"}
         },
         "stylelint": {
-        }
             "env": {"PATH":"/Users/adamalton/.nvm/versions/node/v15.6.0/bin/"}
+        },
         "pylint": {
             "executable": "/Library/Frameworks/Python.framework/Versions/3.9/bin/pylint"
         },
+        // "flake8": {
+        //     "executable": "/Library/Frameworks/Python.framework/Versions/3.9/bin/flake8"
+        // }
     }
 }
