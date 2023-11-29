@@ -15,6 +15,7 @@
 	],
 	"match_brackets_angle": false,
 	"mini_diff": "auto",
+	"move_to_limit_on_up_down": true,
 	"open_tabs_after_current": false,
 	"scroll_past_end": true,
 	"spell_check": true,
