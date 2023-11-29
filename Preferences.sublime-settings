@@ -15,6 +15,7 @@
 	],
 	"match_brackets_angle": false,
 	"mini_diff": "auto",
+	"open_tabs_after_current": false,
 	"scroll_past_end": true,
 	"spell_check": true,
 	"theme": "Default.sublime-theme",
