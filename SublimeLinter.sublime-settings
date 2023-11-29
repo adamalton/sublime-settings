@@ -3,18 +3,18 @@
 	"paths": {
         "linux": [],
         "osx": [
-        	"/Users/adamalton/.nvm/versions/node/v15.6.0/bin/",
+        	"/Users/adamalton/.nvm/versions/node/v18.4.0/bin/",
         	"/usr/local/bin"
         ],
         "windows": []
     },
     "linters": {
         "eslint": {
-            "env": {"PATH":"/Users/adamalton/.nvm/versions/node/v15.6.0/bin/"}
+            "env": {"PATH":"/Users/adamalton/.nvm/versions/node/v18.4.0/bin/"}
         },
         "stylelint": {
-        }
-            "env": {"PATH":"/Users/adamalton/.nvm/versions/node/v15.6.0/bin/"}
+            "env": {"PATH":"/Users/adamalton/.nvm/versions/node/v18.4.0/bin/"}
+        },
         "pylint": {
             "executable": "/Library/Frameworks/Python.framework/Versions/3.10/bin/pylint"
         },
